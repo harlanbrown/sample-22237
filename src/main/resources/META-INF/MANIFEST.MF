@@ -1,0 +1,9 @@
+Bundle-ActivationPolicy: lazy
+Bundle-ClassPath: .
+Manifest-Version: 1.0
+Require-Bundle: org.nuxeo.ecm.webapp.ui
+Bundle-Vendor: org.nuxeo.sample
+Bundle-Version: 1.0.0
+Bundle-Name: sample-22237-core
+Bundle-ManifestVersion: 2
+Bundle-SymbolicName: org.nuxeo.sample.sample-22237-core;singleton=true
